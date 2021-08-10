@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 49 49">
+  <g id="LOGIN" transform="translate(5)">
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(-5)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="24.5" cy="24.5" r="24.5" stroke="none"/>
+      <circle cx="24.5" cy="24.5" r="24" fill="none"/>
+    </g>
+    <path id="Icon_awesome-user" data-name="Icon awesome-user" d="M8.892,10.162A5.081,5.081,0,1,0,3.811,5.081,5.081,5.081,0,0,0,8.892,10.162Zm3.557,1.27h-.663a6.91,6.91,0,0,1-5.788,0H5.335A5.336,5.336,0,0,0,0,16.767v1.651a1.906,1.906,0,0,0,1.905,1.905H15.878a1.906,1.906,0,0,0,1.905-1.905V16.767A5.336,5.336,0,0,0,12.448,11.432Z" transform="translate(10.593 14.42)" fill="#acacac"/>
+  </g>
+</svg>

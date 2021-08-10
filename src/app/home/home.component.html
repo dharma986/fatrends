@@ -1,0 +1,27 @@
+
+<app-nav></app-nav>
+<app-slider></app-slider>
+<app-topdesigners></app-topdesigners>
+
+
+<h1 *ngIf="status; then trueblock;  else elseblock  ">Welcome to {{name }}</h1>
+
+<ng-template #trueblock>
+
+    <h1>its a ture block</h1>
+
+</ng-template>
+
+<ng-template #elseblock>
+
+   <h1>Else Block {{name}}</h1> 
+
+</ng-template>
+
+
+
+
+
+
+
+<app-footer></app-footer>

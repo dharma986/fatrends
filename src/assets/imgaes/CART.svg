@@ -1,0 +1,7 @@
+<svg id="CART" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 49 49">
+  <g id="Ellipse_3" data-name="Ellipse 3" fill="#fff" stroke="#707070" stroke-width="1">
+    <circle cx="24.5" cy="24.5" r="24.5" stroke="none"/>
+    <circle cx="24.5" cy="24.5" r="24" fill="none"/>
+  </g>
+  <path id="Icon_awesome-shopping-cart" data-name="Icon awesome-shopping-cart" d="M20.783,11.857l1.86-8.185a.944.944,0,0,0-.921-1.154H6.265L5.9.755A.944.944,0,0,0,4.979,0H.944A.944.944,0,0,0,0,.944v.63a.944.944,0,0,0,.944.944h2.75L6.459,16.033A2.2,2.2,0,1,0,9.1,16.37h8.25a2.2,2.2,0,1,0,2.5-.409l.217-.955a.944.944,0,0,0-.921-1.154H8.583l-.258-1.259H19.862A.944.944,0,0,0,20.783,11.857Z" transform="translate(13.578 14.516)" fill="#acacac"/>
+</svg>
